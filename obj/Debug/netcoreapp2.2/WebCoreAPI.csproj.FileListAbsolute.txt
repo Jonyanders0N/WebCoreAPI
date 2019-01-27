@@ -1,0 +1,14 @@
+C:\Repositorios\API\WebCoreAPI\WebCoreAPI\bin\Debug\netcoreapp2.2\WebCoreAPI.deps.json
+C:\Repositorios\API\WebCoreAPI\WebCoreAPI\bin\Debug\netcoreapp2.2\WebCoreAPI.runtimeconfig.json
+C:\Repositorios\API\WebCoreAPI\WebCoreAPI\bin\Debug\netcoreapp2.2\WebCoreAPI.runtimeconfig.dev.json
+C:\Repositorios\API\WebCoreAPI\WebCoreAPI\bin\Debug\netcoreapp2.2\WebCoreAPI.dll
+C:\Repositorios\API\WebCoreAPI\WebCoreAPI\bin\Debug\netcoreapp2.2\WebCoreAPI.pdb
+C:\Repositorios\API\WebCoreAPI\WebCoreAPI\obj\Debug\netcoreapp2.2\WebCoreAPI.csproj.CoreCompileInputs.cache
+C:\Repositorios\API\WebCoreAPI\WebCoreAPI\obj\Debug\netcoreapp2.2\WebCoreAPI.RazorAssemblyInfo.cache
+C:\Repositorios\API\WebCoreAPI\WebCoreAPI\obj\Debug\netcoreapp2.2\WebCoreAPI.RazorAssemblyInfo.cs
+C:\Repositorios\API\WebCoreAPI\WebCoreAPI\obj\Debug\netcoreapp2.2\WebCoreAPI.AssemblyInfoInputs.cache
+C:\Repositorios\API\WebCoreAPI\WebCoreAPI\obj\Debug\netcoreapp2.2\WebCoreAPI.AssemblyInfo.cs
+C:\Repositorios\API\WebCoreAPI\WebCoreAPI\obj\Debug\netcoreapp2.2\WebCoreAPI.RazorTargetAssemblyInfo.cache
+C:\Repositorios\API\WebCoreAPI\WebCoreAPI\obj\Debug\netcoreapp2.2\WebCoreAPI.dll
+C:\Repositorios\API\WebCoreAPI\WebCoreAPI\obj\Debug\netcoreapp2.2\WebCoreAPI.pdb
+C:\Repositorios\API\WebCoreAPI\WebCoreAPI\obj\Debug\netcoreapp2.2\WebCoreAPI.csprojAssemblyReference.cache
