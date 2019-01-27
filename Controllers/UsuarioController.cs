@@ -33,7 +33,6 @@ namespace WebCoreAPI.Controllers
             return await _context.Usuarios.ToListAsync();
         }
 
-        // GET: api/<controller>
         [HttpGet("{id}")]
         public async Task<ActionResult<Usuario>> GetUsuario(long id)
         {
@@ -47,7 +46,6 @@ namespace WebCoreAPI.Controllers
             return usuario;
         }
 
-        // POST api/<controller>
         [HttpPost]
         public async Task<ActionResult<Usuario>> PostUsuario(Usuario usuario)
         {
@@ -57,7 +55,6 @@ namespace WebCoreAPI.Controllers
             return CreatedAtAction(nameof(GetUsuario), new { id = usuario.UsuarioId }, usuario);
         }
 
-        // PUT api/<controller>/5
         [HttpPut("{id}")]
         public async Task<IActionResult> PutUsuario(long id, Usuario usuario)
         {
@@ -72,7 +69,6 @@ namespace WebCoreAPI.Controllers
             return NoContent();
         }
 
-        // DELETE api/<controller>/5
         [HttpDelete("{id}")]
         public async Task<ActionResult> DeleteUsuario(long id)
         {
